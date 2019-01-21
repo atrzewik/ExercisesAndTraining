@@ -1,4 +1,4 @@
-package com.trzewik.sorting;
+package com.trzewik.algorithmic.exercises;
 
 import java.util.ArrayList;
 import java.util.Collections;

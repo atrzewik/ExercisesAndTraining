@@ -1,4 +1,4 @@
-package com.trzewik.sorting;
+package com.trzewik.algorithmic.exercises;
 
 public class FirstMissingPositive {
 
