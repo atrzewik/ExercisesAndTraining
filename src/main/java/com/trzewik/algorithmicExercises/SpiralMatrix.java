@@ -1,4 +1,4 @@
-package com.trzewik.algorithmic.exercises;
+package com.trzewik.algorithmicExercises;
 
 import java.util.ArrayList;
 import java.util.List;
